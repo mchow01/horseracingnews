@@ -1,0 +1,9 @@
+[project]
+name = "horseracingnews"
+version = "0.1.0"
+description = "MCP server to get content from thoroughbreddailynews.com's RSS feed"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "requests>=2.32.4",
+]
