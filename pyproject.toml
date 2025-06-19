@@ -5,5 +5,6 @@ description = "MCP server to get content from thoroughbreddailynews.com's RSS fe
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "fastmcp>=2.8.1",
     "requests>=2.32.4",
 ]
